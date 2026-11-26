@@ -143,7 +143,6 @@
 // console.log(getPromise);
 
 // Async 函数
-
 async function myFunction() {
   console.log("这是一个异步函数");
   const response = await fetch(
